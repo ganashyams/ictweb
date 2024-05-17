@@ -1,0 +1,26 @@
+body {
+    background-image: url(./IMAGES/lionel-messi-4k-wallpaper-preview.jpg);
+    background-size: cover;
+}
+header{
+    background-color: black;
+}
+#logo{
+    margin-left: 9%;
+}
+.navigation{
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 10px;
+}
+.navigation a:hover {
+    background-color:lime;
+    color: black;
+}
